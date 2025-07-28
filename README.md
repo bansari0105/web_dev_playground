@@ -10,12 +10,12 @@ This repo is not a single project — it's a space to:
 - Document my progress and growth
 - Keep a version-controlled archive of small experiments
 
-##  Topics Covered
+##  Topics to be  Covered
 
-- ✅ HTML5 & CSS3
-- ✅ Flexbox and Grid layout
-- ✅ JavaScript DOM and events
-- ✅ Responsive design and media queries
-- ✅ API Fetching and JSON handling
-- ✅ Mini apps (Calculator, To-do list, etc.)
-- 🧪 UI components and experiments
+- HTML5 & CSS3
+-  Flexbox and Grid layout
+-  JavaScript DOM and events
+-  Responsive design and media queries
+-  API Fetching and JSON handling
+-  Mini apps (Calculator, To-do list, etc.)
+- UI components and experiments
